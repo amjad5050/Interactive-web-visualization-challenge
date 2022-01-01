@@ -1,5 +1,5 @@
 # Interactive-web-visualization-challenge
-Plot.ly Homework - Belly Button Biodiversity
+
 In this assignment,we were asked to build an interactive dashboard to explore the Belly Button Biodiversity dataset, which catalogs the microbes that colonize human navels.
 
 The dataset reveals that a small handful of microbial species (also called operational taxonomic units, or OTUs, in the study) were present in more than 70% of people, while the rest were relatively rare.
@@ -35,7 +35,7 @@ Updated all of the plots any time that a new sample is selected.
 Advanced Challenge Assignment (Optional)
 Adapted the Gauge Chart from https://plot.ly/javascript/gauge-charts/ to plot the weekly washing frequency of the individual.
 
-Modidifed the example gauge code to account for values ranging from 0 through 9.
+Modidifed the example gauge code to account for values ranging from 0 through 20.
 
 Updated the chart whenever a new sample is selected.
 
